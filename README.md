@@ -8,7 +8,7 @@ Este repositorio contiene las instrucciones y plantillas necesarias para transfo
 
 ## Estructura del Proyecto
 
-* **01-CV-Optimizer/**: 
+* **01-CV Optimizer/**: 
   * `Prompt_Maestro_CVs.md`: Prompt del sistema diseñado para analizar la estructura técnica de un CV, identificar brechas de palabras clave según el área profesional, y reescribir la experiencia laboral bajo la fórmula XYZ de Google (Acción + Herramienta + Impacto).
 * **02-Reporte de diagnóstico/**:
   * `Prompt_Diagnostico_Comparativo_CVs.md`: Prompt comercial diseñado para generar informes de diagnóstico comparativo "Antes vs. Después" para clientes de consultoría de empleabilidad.
